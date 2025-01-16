@@ -26,6 +26,6 @@ Feel free to explore my repositories to better understand my work, coding profic
 I'm always open to collaboration, learning, and exploring new opportunities. If you have any questions, suggestions, or would like to connect, please don't hesitate to reach out.
 
 - **Email**: [cmcewen2017@gmail.com](mailto:cmcewen2017@gmail.com)
-- **LinkedIn**:([https://www.linkedin.com/in/charlie-mcewen](https://www.linkedin.com/in/charlie-mcewen-63a446269/))
+- **LinkedIn**: [https://www.linkedin.com/in/charlie-mcewen](https://www.linkedin.com/in/charlie-mcewen-63a446269/)
 
 Thank you for visiting my GitHub profile!
