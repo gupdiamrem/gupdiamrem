@@ -12,10 +12,10 @@ My profile's repositories showcase some of the projects I have worked on during 
 
 ### Some of my key projects include:
 - **Matrix Calculator Web App**: A dynamic web-based matrix calculator for operations like addition, subtraction, multiplication, transpose, and more, built using **HTML**, **CSS**, and **JavaScript**.
-        - This is a rebuild of a previous matrix calculator I built as a **Java** program that utilized the **JavaFX** framework for it's front end. Unhappy with how it turned out, I rebuilt it as the web app described above.
-- **Core Interpreter**: A Python-based interpreter for a custom programming language that focuses on parsing and executing code.
+        - This is a rebuild of a previous matrix calculator I built as a **Java** program that utilized the **JavaFX** framework for its front end. Unhappy with how it turned out, I rebuilt it as the web app described above.
+- **Core Interpreter**: A **Python**-based interpreter for the Core programming language that focuses on parsing and executing code Core code.
 - **Portfolio Website**: A personal portfolio site showcasing my skills, projects, and contact information, built with **HTML** and **CSS**. 
-- **1986 Zelda Dungeon Recreation**: A recreation of the original 1986 Legend of Zelda game's first dungeon. Built with **C#**, it highlights my object-oriented programming skills I have built up in my four years as a computer-science student.
+- **1986 Zelda Dungeon Recreation**: A recreation of the original 1986 Legend of Zelda game's first dungeon. Built with **C#**, it highlights the object-oriented programming skills I have built up in my four years as a computer science student.
 
 Feel free to explore my repositories to better understand my work, coding proficiency, and approach to problem-solving. 
 
