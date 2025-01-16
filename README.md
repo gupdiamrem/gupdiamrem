@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to my GitHub repository! I'm **Charlie McEwen**, a passionate **Computer Science and Engineering** student at **The Ohio State University**, specializing in **software development** and **cloud engineering**. I am currently pursuing my **Bachelor of Science** degree, with an expected graduation in **Spring 2025**. My academic journey is complemented by a **minor in Communication Technology**, enabling me to merge technical expertise with effective communication skills.
+Welcome to my GitHub repository! I'm **Charlie McEwen**, a passionate **Computer Science and Engineering** student at **The Ohio State University**, specializing in **software development**. I am currently pursuing my **Bachelor of Science** degree, with an expected graduation in **Spring 2025**. My academic journey is complemented by a **minor in Communication Technology**, enabling me to merge technical expertise with effective communication skills.
 
 My professional experience includes an internship at **DHL**, where I deepened my understanding of **data management** and **data-modeling technologies** as an implementation analyst intern. I am highly motivated and approach every project with a strong sense of discipline and a results-oriented mindset.
 
