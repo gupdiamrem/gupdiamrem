@@ -8,7 +8,7 @@ My professional experience includes an internship at **DHL**, where I deepened m
 
 ## Projects
 
-Here, my repositories showcase some of the projects I have worked on during my academic journey. Each project reflects my **commitment to excellence**, **problem-solving**, and drive for **continuous learning**.
+My profile's repositories showcase some of the projects I have worked on during my academic journey. Each project reflects my **commitment to excellence**, **problem-solving**, and drive for **continuous learning**.
 
 ### Some of my key projects include:
 - **Matrix Calculator Web App**: A dynamic web-based matrix calculator for operations like addition, subtraction, multiplication, transpose, and more, built using **HTML**, **CSS**, and **JavaScript**.
